@@ -4,7 +4,7 @@
         <meta charset="utf-8">
         <!--  This file has been downloaded from https://bootdey.com  -->
         <!--  All snippets are MIT license https://bootdey.com/license -->
-        <title>Codeigniter Socket.IO Real Time Chat</title>
+        <title>Real Time Chat </title>
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
         <link href="http://netdna.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet">

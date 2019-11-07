@@ -21,7 +21,7 @@
             <!-- Sing in  Form -->
             <section class="sign-in">
                 <div class="container">
-                    <h1 class="site_heading">Codeignier Real Time Chat Application with Socket.IO</h1>
+                    <h1 class="site_heading">Andrew-Dabawa Real Time Chat Application </h1>
 
                     <div class="signin-content">
                         <div class="signin-form">
